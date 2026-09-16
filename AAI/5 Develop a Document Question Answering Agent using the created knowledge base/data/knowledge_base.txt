@@ -1,0 +1,31 @@
+CAMPUS CONNECT KNOWLEDGE BASE
+
+1. About Campus Connect
+Campus Connect is a fictional student-support portal designed to help students understand common academic and campus services. The portal provides information about library services, laboratory access, academic advising, clubs, transport, student events, and technical help. This document is the complete source of truth for the Q&A agent.
+
+2. Library Services
+The campus library is open Monday to Friday from 8:00 AM to 8:00 PM and on Saturday from 9:00 AM to 2:00 PM. The library is closed on Sundays and officially declared campus holidays. Students can borrow up to four books at one time. The standard loan period is 14 days. A renewal is allowed once when no other student has placed a hold on the item. Late returns carry a fine of INR 2 per book per day. Students can request a study room at the library help desk for a maximum of two hours per day.
+
+3. Computer Laboratory Access
+The main computer laboratory is open Monday to Friday from 9:00 AM to 6:00 PM. Students must carry their campus identification card and sign in before using a laboratory workstation. Each student can reserve one laboratory session per day, with a maximum duration of two hours. Personal software installations are not permitted. Students who need a course-specific software package should submit a software request to the laboratory coordinator at least two working days before the required session.
+
+4. Academic Advising
+Academic advising is available to help students plan courses, review academic progress, and understand graduation requirements. Regular advising appointments last 20 minutes. Students should bring their current course list and questions about registration. Same-day walk-in advising is available between 11:00 AM and 1:00 PM on working days, subject to availability. Students should contact the academic office when they need an official degree audit.
+
+5. Student Clubs
+Students may join up to three registered student clubs at the same time. Each club has a faculty advisor and a student coordinator. New club memberships are normally confirmed within five working days after the student submits the club registration form. Clubs may request a classroom or seminar hall for an event by submitting a room booking request at least seven days in advance. Events involving external guests require approval from the student activities office.
+
+6. Campus Transport
+The campus shuttle operates from 7:30 AM to 7:00 PM on working days. The shuttle follows fixed routes between the main gate, academic block, library, hostel area, and sports complex. Students must show a valid campus identification card when requested. Shuttle reservations are not required. Service frequency may be reduced during examination periods, maintenance periods, or campus-wide events.
+
+7. Student Events
+Student events should be registered through the student activities office. Requests should normally be submitted at least seven days before the event date. Events involving food, amplified sound, or external guests may require additional approvals. The event organizer is responsible for venue readiness, attendance records when required, and leaving the venue clean after the event. Emergency or safety concerns must be reported to campus security immediately.
+
+8. Technical Support
+The campus technical support desk handles account access, Wi-Fi connectivity, laboratory login problems, and issues with official student applications. Support requests can be submitted through the campus help portal during working hours from 9:00 AM to 6:00 PM on working days. High-priority account lockouts are handled on the same working day. Hardware repair requests for personal devices are outside the scope of campus technical support.
+
+9. Examination Support
+Students who face an examination timetable conflict should contact the academic office as soon as the conflict is identified. Requests for examination accommodations must be submitted before the deadline announced for the relevant examination period. The Q&A agent should not invent accommodation rules that are not present in this knowledge base.
+
+10. Important Contact Rules
+The Campus Connect Q&A agent must answer only from this knowledge base. If a question cannot be answered from the document, it must clearly state that the information is not available in the knowledge base. The agent must not invent phone numbers, email addresses, room numbers, fee amounts, or policies. When a date, time, or limit is stated in the source, the agent should preserve the stated value accurately.
